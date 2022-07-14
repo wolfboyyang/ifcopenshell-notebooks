@@ -1,0 +1,5 @@
+Element;Attribute;Requirement;Value
+IfcDoor;FireExit;existence;True
+IfcDoor;OverallHeight;larger than;1500
+IfcWindow;OverallHeight;smaller than;1300
+IfcDoor;Name;one of;["Door"]
